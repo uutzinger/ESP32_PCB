@@ -22,6 +22,7 @@ Size 20.32 x 47 mm
 <table>
   <tr>
     <td><img src="./ESP32_S3_MINI/Top.png" alt="Front" width="100%"></td>
+    <td><img src="./ESP32_S3_MINI/Side.png" alt="Back" width="100%"></td>
     <td><img src="./ESP32_S3_MINI/Bottom.png" alt="Back" width="100%"></td>
   </tr>
 </table>
