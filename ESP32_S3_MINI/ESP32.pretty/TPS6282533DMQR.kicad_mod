@@ -1,0 +1,328 @@
+(footprint "TPS6282533DMQR"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "TPS6282533DMQR-1")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC1"
+		(at 0 -1.6 0)
+		(layer "F.SilkS")
+		(uuid "b7a8179a-ef21-4c27-928a-109dcc5918d5")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Value" "TPS6282533DMQR"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "ea6c4f31-ae0a-4e68-955e-09e471acdd14")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/tps62825a.pdf?ts=1656597904415&ref_url=https%253A%252F%252Fwww.google.com%252F"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8c652f8c-299e-4a4d-a3eb-6238534bd993")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Switching Voltage Regulators 2.4-V to 5.5-V input, 2-A step-down converter with 1% accuracy in 1.5-mm x 1.5-mm QFN"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b20b03aa-2767-4d44-8945-dd22f1bbfeb8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4ec647df-9e03-4ec8-a5bc-2136e7ebfbf8")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "745a4621-1fee-4bdf-9856-f749f3e025d5")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "TPS6282533DMQR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a943de5c-25bd-4fdd-8aed-97056c3e6322")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-TPS6282533DMQR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "704bff5e-0749-4a36-9db1-059ec5d44d8a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/TPS6282533DMQR?qs=e8oIoAS2J1TctVdod4W0lA%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bd6cc48b-c8c9-475a-94de-97b49097c938")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "TPS6282533DMQR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9879fa97-7890-458d-b880-4dfb057b95e0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/tps6282533dmqr/texas-instruments?utm_currency=USD&region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "950615d9-5d4b-4d2b-9385-59229f7b382e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_line
+		(start -1.4 -0.5)
+		(end -1.4 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d95c7af6-635f-4b02-a55b-0bb07717f4b0")
+	)
+	(fp_line
+		(start -1.3 -0.5)
+		(end -1.3 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "1a401eca-e833-4000-991d-485752f8f8fe")
+	)
+	(fp_arc
+		(start -1.4 -0.5)
+		(mid -1.35 -0.55)
+		(end -1.3 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "0a2d425f-7f77-4122-ae8e-d85fd50942cf")
+	)
+	(fp_arc
+		(start -1.3 -0.5)
+		(mid -1.35 -0.45)
+		(end -1.4 -0.5)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "80611c42-5eb5-4836-a1d7-e4f5fa5a73ac")
+	)
+	(fp_line
+		(start -1.2 -1.15)
+		(end 1.2 -1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8657061e-5078-4f69-8241-67a1f4f41e12")
+	)
+	(fp_line
+		(start -1.2 1.15)
+		(end -1.2 -1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "883d93ed-c6f4-4e00-8b0c-58c698202944")
+	)
+	(fp_line
+		(start 1.2 -1.15)
+		(end 1.2 1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "6ec8fd60-8abc-4df2-92d5-af017ade83e9")
+	)
+	(fp_line
+		(start 1.2 1.15)
+		(end -1.2 1.15)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b8f5711b-e897-4542-b392-dad06376e7cd")
+	)
+	(fp_line
+		(start -0.75 -0.75)
+		(end 0.75 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "4d4512e6-f4b6-4913-9844-a0ff50c5a4d2")
+	)
+	(fp_line
+		(start -0.75 0.75)
+		(end -0.75 -0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f16520f9-6d87-4ebb-b73f-1f83943e1f22")
+	)
+	(fp_line
+		(start 0.75 -0.75)
+		(end 0.75 0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "a6785aa2-1d72-4b9f-afa4-68cc2ad46040")
+	)
+	(fp_line
+		(start 0.75 0.75)
+		(end -0.75 0.75)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "8bf7c25e-722a-41ee-92ba-08dde02555b3")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 1.75 0)
+		(layer "F.Fab")
+		(uuid "6f6ee69a-98b1-4b51-9bfd-37f8548fb239")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.65 -0.5 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4bf1ca35-f72c-47ce-bdaa-879690181b14")
+	)
+	(pad "2" smd rect
+		(at -0.65 0 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "0f4b89c3-6c5a-4907-8c08-0488a5aa0646")
+	)
+	(pad "3" smd rect
+		(at -0.65 0.5 90)
+		(size 0.25 0.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4183101c-8628-4c81-abe0-87b266a14145")
+	)
+	(pad "4" smd rect
+		(at 0.45 0.5 90)
+		(size 0.2 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "fc3fa3ea-aa76-42a3-93b3-26aa0bb7af18")
+	)
+	(pad "5" smd rect
+		(at 0.45 0 90)
+		(size 0.2 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "14453022-bcf9-400c-9fdc-80235f8cb238")
+	)
+	(pad "6" smd rect
+		(at 0.45 -0.5 90)
+		(size 0.2 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "87811de3-f587-49ce-8839-498a8e888438")
+	)
+	(embedded_fonts no)
+	(model "${ESP32}/TPS6282533DMQR.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,46 @@
+(footprint "Castellated_1x08_P2.54mm_D0.80mm"
+  (version 20211014)
+  (generator "manual")
+  (layer "F.Cu")
+  (descr "Castellated edge pads: 1x08, 2.54mm pitch, drill 0.80mm. Place board edge (Edge.Cuts) at x=0 to create half-holes.")
+  (tags "castellated half-hole edge module")
+  (attr through_hole)
+
+  (fp_text reference "J?"
+    (at -2.0 -10.0 0)
+    (layer "F.SilkS")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_text value "Castellated_1x08"
+    (at -2.0 10.0 0)
+    (layer "F.Fab")
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
+
+  (fp_text user "EDGE.CUTS @ x=0"
+    (at 3.0 0 90)
+    (layer "Dwgs.User")
+    (effects (font (size 0.9 0.9) (thickness 0.12)))
+  )
+
+  (fp_line
+    (start 0 -9.5) (end 0 9.5)
+    (stroke (width 0.12) (type solid))
+    (layer "Dwgs.User")
+  )
+
+  (fp_line (start -2.2 -10.2) (end  2.2 -10.2) (stroke (width 0.05) (type solid)) (layer "F.CrtYd"))
+  (fp_line (start  2.2 -10.2) (end  2.2  10.2) (stroke (width 0.05) (type solid)) (layer "F.CrtYd"))
+  (fp_line (start  2.2  10.2) (end -2.2  10.2) (stroke (width 0.05) (type solid)) (layer "F.CrtYd"))
+  (fp_line (start -2.2  10.2) (end -2.2 -10.2) (stroke (width 0.05) (type solid)) (layer "F.CrtYd"))
+
+  (pad "1" thru_hole rect   (at 0 -8.89) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "2" thru_hole circle (at 0 -6.35) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "3" thru_hole circle (at 0 -3.81) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "4" thru_hole circle (at 0 -1.27) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "5" thru_hole circle (at 0  1.27) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "6" thru_hole circle (at 0  3.81) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "7" thru_hole circle (at 0  6.35) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+  (pad "8" thru_hole circle (at 0  8.89) (size 1.6 1.6) (drill 0.8) (layers "*.Cu" "*.Mask"))
+)

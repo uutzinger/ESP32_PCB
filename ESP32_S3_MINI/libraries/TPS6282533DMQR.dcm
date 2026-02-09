@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TPS6282533DMQR
+D Switching Voltage Regulators 2.4-V to 5.5-V input, 2-A step-down converter with 1% accuracy in 1.5-mm x 1.5-mm QFN
+K
+F https://www.ti.com/lit/ds/symlink/tps62825a.pdf?ts=1656597904415&ref_url=https%253A%252F%252Fwww.google.com%252F
+$ENDCMP
+#
+#End Doc Library

@@ -1,0 +1,1101 @@
+{
+  "board": {
+    "3dviewports": [],
+    "design_settings": {
+      "defaults": {
+        "apply_defaults_to_fp_fields": false,
+        "apply_defaults_to_fp_shapes": false,
+        "apply_defaults_to_fp_text": false,
+        "board_outline_line_width": 0.05,
+        "copper_line_width": 0.2,
+        "copper_text_italic": false,
+        "copper_text_size_h": 1.5,
+        "copper_text_size_v": 1.5,
+        "copper_text_thickness": 0.3,
+        "copper_text_upright": false,
+        "courtyard_line_width": 0.05,
+        "dimension_precision": 4,
+        "dimension_units": 3,
+        "dimensions": {
+          "arrow_length": 1270000,
+          "extension_offset": 500000,
+          "keep_text_aligned": true,
+          "suppress_zeroes": true,
+          "text_position": 0,
+          "units_format": 0
+        },
+        "fab_line_width": 0.1,
+        "fab_text_italic": false,
+        "fab_text_size_h": 1.0,
+        "fab_text_size_v": 1.0,
+        "fab_text_thickness": 0.15,
+        "fab_text_upright": false,
+        "other_line_width": 0.1,
+        "other_text_italic": false,
+        "other_text_size_h": 1.0,
+        "other_text_size_v": 1.0,
+        "other_text_thickness": 0.15,
+        "other_text_upright": false,
+        "pads": {
+          "drill": 0.8,
+          "height": 1.6,
+          "width": 1.6
+        },
+        "silk_line_width": 0.1,
+        "silk_text_italic": false,
+        "silk_text_size_h": 1.0,
+        "silk_text_size_v": 1.0,
+        "silk_text_thickness": 0.1,
+        "silk_text_upright": false,
+        "zones": {
+          "min_clearance": 0.2
+        }
+      },
+      "diff_pair_dimensions": [
+        {
+          "gap": 0.0,
+          "via_gap": 0.0,
+          "width": 0.0
+        }
+      ],
+      "drc_exclusions": [
+        [
+          "clearance|199085000|88150000|376d14e5-f568-4f42-8a94-8b5ff6d61c74|c0e5d58e-efa1-42bd-b8a2-76baae5da57b",
+          ""
+        ],
+        [
+          "clearance|199085000|93350000|60e5bf5a-ab74-4aee-ad19-805b28cbef8f|a71d9ca6-37ca-449d-95fa-365053beae26",
+          ""
+        ],
+        [
+          "clearance|201685000|88150000|7d3c39a5-589a-4f12-8401-c6860c4233c2|98cc909a-9593-4c0e-b649-2be45017c787",
+          ""
+        ],
+        [
+          "clearance|201685000|93350000|f97a442f-af63-415e-a819-ab25ec6e6531|0411cf7e-bbb4-4abe-9104-eb0bb9c6a9e5",
+          ""
+        ],
+        [
+          "clearance|204587500|97662500|412e11da-a3b0-4689-a8be-866f3b9d09b6|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9",
+          ""
+        ],
+        [
+          "clearance|204912500|96237500|4aab3d84-3612-4167-bbd2-167dc91125da|011f22c6-55e5-4e07-b51f-28ce7ba5a376",
+          ""
+        ],
+        [
+          "clearance|205087500|97662500|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9|bd2a52c5-9ea7-43b2-aea9-904f55e5a5f0",
+          ""
+        ],
+        [
+          "clearance|205412500|96237500|977594f6-48b4-48c9-89cc-1070360fac90|4aab3d84-3612-4167-bbd2-167dc91125da",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|101500000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|f11869e7-6925-45ed-aedd-cc9b8efc7d0a",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|104040000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|f78b2a49-b9dd-47fe-bfa0-42d4f6de749f",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|106580000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|1e03c422-414b-49c9-8036-eaef8ca651e6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|109120000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|38440a9d-d354-4f53-b921-45b91a9c7a22",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|111660000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|30b5db24-c5ca-44ea-a28a-acfda749803d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|114200000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|2c5e4446-9ab6-4c03-9a78-103be575b50a",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|68700000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|a5d1bb4e-30f0-41e9-8a09-163d185420dc",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|75160000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|abaf252c-3524-4a00-b06d-1bb484ecf513",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|76100000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|33e38622-4acc-495f-a2bd-196621a5f127",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|78640000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|9ed52402-2492-42cb-9165-3d2deabf56e7",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|81180000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|e38c4ff0-3826-4bee-a73f-56a999a5f4d9",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|83720000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|def856c8-b424-4b41-9f33-5bf884037b11",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|86260000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|0bfc7e60-36ce-4564-87f6-fab388fc5dfd",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|88800000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|5f218ec8-4575-49a4-a5f3-34a9f11320ea",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|91340000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|e2a359cc-ead4-4f43-a0aa-e11b3f685853",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|93880000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|cdc857cb-19ef-4b96-ae6b-9462a4fd67f6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|96420000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|63acde67-addf-468d-813f-1072c6172834",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189840000|98960000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|1cf6af07-cc97-4540-9882-4914d0892112",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|102300000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|8980ecbc-363e-492c-b038-0445fb366540",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|104840000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|f6919b0a-98c0-4cfb-86da-b2b2314ce7bb",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|107380000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|3cc00501-5b4e-4416-8370-bc33491410f6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|109920000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|7839c6a4-2b8f-49b4-8078-42874e938f44",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|112460000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|c7883949-cf84-4cda-a7b2-ce00b2a31118",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|114799000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|30131aa7-5928-432f-9ebb-3afa62565280",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|69270000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|1fb49f3e-f013-43f9-ad3a-698ebac18ad3",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|74360000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|8331ff70-a415-4328-b27a-a2fff2c3e8eb",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|76878612|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|2b0a6427-c1c6-457f-8b9e-eb6642db902a",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|76878612|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|ccd775cf-a58c-489b-8f61-b2e53db45ffa",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|79440000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|b3d69b2a-06a4-478e-845a-7e59d0139314",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|81980000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|6fb9221b-72c7-4e2b-90fb-8ca892b7b84b",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|84520000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|8663b48d-c405-4055-a540-4569c7e6e351",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|87060000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|55b49326-a16f-4178-9e22-c241c3fc6000",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|89600000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|4e257391-12b1-41cb-8d7f-0e9334c41bd4",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|92140000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|100e3888-dbe6-4036-8d07-ed992925a321",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|94680000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|a791e3aa-02a5-418b-ab29-f01fe9539622",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|97220000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|cf1f92dc-a7e8-489f-8974-0e627a899df2",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189875000|99760000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|6026dc8a-232d-4bec-974e-8b88ddf818db",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189880000|109920000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|9bf59784-e8f2-48d1-a9f1-189bdb891553",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189916000|69270000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|d2b684da-66b0-472c-8122-d3f9ceddb0f6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189935000|74300000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|e9da1d7d-ce84-458f-843f-f91ef1e70532",
+          ""
+        ],
+        [
+          "copper_edge_clearance|189951000|114799000|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|69c1fe0b-6199-4f93-823a-00defb951389",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|102300000|9a050b23-4eae-48fd-825e-c5ed98a3b241|79b18c87-d8b1-432d-928a-bfc339cd1559",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|104840000|9a050b23-4eae-48fd-825e-c5ed98a3b241|f2620b1d-ffab-4062-9b9d-2fb321f8cffc",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|107380000|9a050b23-4eae-48fd-825e-c5ed98a3b241|ca2ad201-de23-4343-9e48-7f20e6f9a6e4",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|109920000|9a050b23-4eae-48fd-825e-c5ed98a3b241|70d3189d-c1f5-4868-ab9e-6e7615a5380b",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|112425000|9a050b23-4eae-48fd-825e-c5ed98a3b241|87773947-8675-4225-a75a-f0025b4c7a79",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|112425000|9a050b23-4eae-48fd-825e-c5ed98a3b241|c8b3af1f-0373-4405-a926-4a179c8451cc",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|71820000|9a050b23-4eae-48fd-825e-c5ed98a3b241|2ce8af86-c161-4a60-aa80-cb37dc47b3b6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|74360000|9a050b23-4eae-48fd-825e-c5ed98a3b241|98688de0-3fd6-472e-a932-869cde6f50e5",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|76625000|9a050b23-4eae-48fd-825e-c5ed98a3b241|5bc92070-f16e-4e3f-b931-141c9b876fe6",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|76900000|9a050b23-4eae-48fd-825e-c5ed98a3b241|511397d7-4ef6-45d5-aaee-6c600f14d372",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|79440000|9a050b23-4eae-48fd-825e-c5ed98a3b241|9b4cc0cd-2c91-427d-892f-99df5a02932f",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|81980000|9a050b23-4eae-48fd-825e-c5ed98a3b241|814cb6fd-128e-4674-bc0d-f6ab1f4fd9de",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|84520000|9a050b23-4eae-48fd-825e-c5ed98a3b241|9accd466-517d-4cc2-8a41-377d0b7c0cbd",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|87060000|9a050b23-4eae-48fd-825e-c5ed98a3b241|8f2dbe46-e47d-4476-85ac-c8c7c92ed805",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|89600000|9a050b23-4eae-48fd-825e-c5ed98a3b241|4184d96e-0cc5-4286-980e-2a599a7da432",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|92140000|9a050b23-4eae-48fd-825e-c5ed98a3b241|8e1cc09a-c4ed-4822-a8e8-8874a0550827",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|94680000|9a050b23-4eae-48fd-825e-c5ed98a3b241|6a6c25f1-77ee-472b-a2a4-4c1996b1b3e8",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|97220000|9a050b23-4eae-48fd-825e-c5ed98a3b241|cf862303-04c3-4a2f-a5c7-dcda370e2971",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210125000|99760000|9a050b23-4eae-48fd-825e-c5ed98a3b241|b0ff6ef3-0243-4dc6-814a-10516e2a9a0d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|101500000|9a050b23-4eae-48fd-825e-c5ed98a3b241|2b88c532-6761-4ac0-9240-af785cb4449d",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|104040000|9a050b23-4eae-48fd-825e-c5ed98a3b241|c1dd7df3-f358-475b-8c01-02dea0d8a905",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|106580000|9a050b23-4eae-48fd-825e-c5ed98a3b241|d6fb8355-5223-4dc2-aad5-fab5c6fc49a8",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|109120000|9a050b23-4eae-48fd-825e-c5ed98a3b241|9ea90213-59c9-466e-9291-a9d845847dc2",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|111660000|9a050b23-4eae-48fd-825e-c5ed98a3b241|51a6f586-64e1-45cf-9c5e-aed58ba71f04",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|114200000|9a050b23-4eae-48fd-825e-c5ed98a3b241|7d1afe47-979a-4edf-8a8b-b92277ec38e0",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|68700000|9a050b23-4eae-48fd-825e-c5ed98a3b241|d229f3b2-c79c-462e-b754-df2333cffdd0",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|71020000|9a050b23-4eae-48fd-825e-c5ed98a3b241|2e62ca19-faf5-440e-9326-1efe3221cbaa",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|73560000|9a050b23-4eae-48fd-825e-c5ed98a3b241|0e17b253-bacc-4867-80f6-26f2454e3b67",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|76100000|9a050b23-4eae-48fd-825e-c5ed98a3b241|812f1fca-1d1c-4e60-851c-9133f05fc7a5",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|78640000|9a050b23-4eae-48fd-825e-c5ed98a3b241|10545dae-c2b9-44eb-8086-a78c4dbd8e36",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|81180000|9a050b23-4eae-48fd-825e-c5ed98a3b241|cdbe0eb5-4e9d-4890-a4ff-2817c3432354",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|83720000|9a050b23-4eae-48fd-825e-c5ed98a3b241|dcc0bf5b-c2b7-4611-abde-410b89fe2422",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|86260000|9a050b23-4eae-48fd-825e-c5ed98a3b241|a6e65ea8-6736-4444-83d0-ca0bb7e53880",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|88800000|9a050b23-4eae-48fd-825e-c5ed98a3b241|096dcd44-dc25-4695-8a8a-557020eca4ec",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|91340000|9a050b23-4eae-48fd-825e-c5ed98a3b241|be8f9abe-4301-44e4-9de7-88642773c3aa",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|93880000|9a050b23-4eae-48fd-825e-c5ed98a3b241|014f8952-11af-4e42-aeb2-946276e68dc8",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|96420000|9a050b23-4eae-48fd-825e-c5ed98a3b241|3116168b-2fb7-40b4-a307-990075be94ec",
+          ""
+        ],
+        [
+          "copper_edge_clearance|210160000|98960000|9a050b23-4eae-48fd-825e-c5ed98a3b241|99748bc9-d82f-4af5-9df4-3d1e6c52fb80",
+          ""
+        ],
+        [
+          "courtyards_overlap|188680000|68075000|bb69658e-9ff7-4c0c-9981-d6f78684bb3e|dfe6faf5-ec7e-499e-ace4-6193249a3abe",
+          ""
+        ],
+        [
+          "courtyards_overlap|208965000|68145000|9de35dab-76bd-45de-9759-52c5045b1de7|bb69658e-9ff7-4c0c-9981-d6f78684bb3e",
+          ""
+        ],
+        [
+          "footprint_symbol_mismatch|194500000|91400000|bda81ddc-6f03-4ed8-84f1-885c74f00b4a|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "footprint_symbol_mismatch|196950000|100250000|f6ccf66f-6af1-489e-8b01-9fffc80c8fdb|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "footprint_symbol_mismatch|205250000|91400000|ecac19d5-8a74-460a-9403-9b932073b075|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "items_not_allowed|190675000|68700000|a5d1bb4e-30f0-41e9-8a09-163d185420dc|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "items_not_allowed|190675000|68700000|dfe6faf5-ec7e-499e-ace4-6193249a3abe|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "items_not_allowed|210960000|68700000|9de35dab-76bd-45de-9759-52c5045b1de7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "items_not_allowed|210960000|68700000|d229f3b2-c79c-462e-b754-df2333cffdd0|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_edge_clearance|189887619|94644204|9ce7c903-cac7-4a00-83b6-b66e9e1d7cee|d46d7745-46af-430f-bf59-33f29c2efbac",
+          ""
+        ],
+        [
+          "silk_edge_clearance|192200000|68700000|a8d2e079-d771-4ad7-8243-9d7352d8145a|d7abcfc0-159c-4828-8535-033a8b34bacc",
+          ""
+        ],
+        [
+          "silk_edge_clearance|207800000|68700000|a8d2e079-d771-4ad7-8243-9d7352d8145a|c3933739-9079-4ca5-8ef2-f5c8db9b2b2d",
+          ""
+        ],
+        [
+          "silk_edge_clearance|210207619|92080395|9a050b23-4eae-48fd-825e-c5ed98a3b241|2b0b134c-87a4-44ad-94d1-922e18d2cbf3",
+          ""
+        ],
+        [
+          "silk_over_copper|190149523|94406109|d46d7745-46af-430f-bf59-33f29c2efbac|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|194726109|99212500|66d85047-32b6-4d06-ae37-b56a341394dd|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|195717446|109736017|7ce3c7c9-7343-4c3a-9df1-e0cf57688baa|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|197369048|100125000|98e4140f-904c-4adb-9d00-3b268d18cc7f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|210445714|91866109|2b0b134c-87a4-44ad-94d1-922e18d2cbf3|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_overlap|194726109|98862500|1503bdaf-e9f6-4e65-bc55-0d3894ff4b9f|66d85047-32b6-4d06-ae37-b56a341394dd",
+          ""
+        ],
+        [
+          "silk_overlap|199037827|107700000|1c105e0c-da98-46d2-a967-a6505863a17a|8021e2b9-3bed-487b-9662-ad078758635d",
+          ""
+        ],
+        [
+          "silk_overlap|206500000|104277000|7888e945-48ee-488c-81b7-25f37b8b59d3|95da52b1-f215-4f3d-9e2a-e808d1d631eb",
+          ""
+        ],
+        [
+          "starved_thermal|190520000|71250000|c4c8d554-504e-4217-9b20-497f4aa0b02d|4f719c6b-249d-47cf-85eb-22477b1bfef5|F.Cu",
+          ""
+        ],
+        [
+          "text_height|189840000|94680000|d46d7745-46af-430f-bf59-33f29c2efbac|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|194450000|91450000|773f7787-36ee-4dff-bf55-127265b2fcf1|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|194500000|98862500|66d85047-32b6-4d06-ae37-b56a341394dd|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|197000000|100300000|98e4140f-904c-4adb-9d00-3b268d18cc7f|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|200385000|90750000|28e328b3-d8a7-4c68-bc33-f007e462d61c|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|205200000|91450000|b63cd33d-aee4-454f-a633-5e202aafddcf|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "text_height|210160000|92140000|2b0b134c-87a4-44ad-94d1-922e18d2cbf3|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "via_dangling|202385000|91300000|266439f8-8384-40ff-8e80-f6277e819a8c|00000000-0000-0000-0000-000000000000",
+          ""
+        ]
+      ],
+      "meta": {
+        "version": 2
+      },
+      "rule_severities": {
+        "annular_width": "error",
+        "clearance": "error",
+        "connection_width": "warning",
+        "copper_edge_clearance": "error",
+        "copper_sliver": "warning",
+        "courtyards_overlap": "error",
+        "creepage": "error",
+        "diff_pair_gap_out_of_range": "error",
+        "diff_pair_uncoupled_length_too_long": "error",
+        "drill_out_of_range": "error",
+        "duplicate_footprints": "warning",
+        "extra_footprint": "warning",
+        "footprint": "error",
+        "footprint_filters_mismatch": "ignore",
+        "footprint_symbol_mismatch": "warning",
+        "footprint_type_mismatch": "ignore",
+        "hole_clearance": "error",
+        "hole_to_hole": "warning",
+        "holes_co_located": "warning",
+        "invalid_outline": "error",
+        "isolated_copper": "warning",
+        "item_on_disabled_layer": "error",
+        "items_not_allowed": "error",
+        "length_out_of_range": "error",
+        "lib_footprint_issues": "warning",
+        "lib_footprint_mismatch": "warning",
+        "malformed_courtyard": "error",
+        "microvia_drill_out_of_range": "error",
+        "mirrored_text_on_front_layer": "warning",
+        "missing_courtyard": "ignore",
+        "missing_footprint": "warning",
+        "net_conflict": "warning",
+        "nonmirrored_text_on_back_layer": "warning",
+        "npth_inside_courtyard": "ignore",
+        "padstack": "warning",
+        "pth_inside_courtyard": "ignore",
+        "shorting_items": "error",
+        "silk_edge_clearance": "warning",
+        "silk_over_copper": "warning",
+        "silk_overlap": "warning",
+        "skew_out_of_range": "error",
+        "solder_mask_bridge": "error",
+        "starved_thermal": "error",
+        "text_height": "warning",
+        "text_on_edge_cuts": "error",
+        "text_thickness": "warning",
+        "through_hole_pad_without_hole": "error",
+        "too_many_vias": "error",
+        "track_angle": "error",
+        "track_dangling": "warning",
+        "track_segment_length": "error",
+        "track_width": "error",
+        "tracks_crossing": "error",
+        "unconnected_items": "error",
+        "unresolved_variable": "error",
+        "via_dangling": "warning",
+        "zones_intersect": "error"
+      },
+      "rules": {
+        "max_error": 0.005,
+        "min_clearance": 0.0,
+        "min_connection": 0.0,
+        "min_copper_edge_clearance": 0.0,
+        "min_groove_width": 0.0,
+        "min_hole_clearance": 0.25,
+        "min_hole_to_hole": 0.25,
+        "min_microvia_diameter": 0.2,
+        "min_microvia_drill": 0.1,
+        "min_resolved_spokes": 2,
+        "min_silk_clearance": 0.0,
+        "min_text_height": 0.8,
+        "min_text_thickness": 0.08,
+        "min_through_hole_diameter": 0.3,
+        "min_track_width": 0.0,
+        "min_via_annular_width": 0.1,
+        "min_via_diameter": 0.5,
+        "solder_mask_to_copper_clearance": 0.0,
+        "use_height_for_length_calcs": true
+      },
+      "teardrop_options": [
+        {
+          "td_onpthpad": true,
+          "td_onroundshapesonly": false,
+          "td_onsmdpad": true,
+          "td_ontrackend": false,
+          "td_onvia": true
+        }
+      ],
+      "teardrop_parameters": [
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_round_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_rect_shape",
+          "td_width_to_size_filter_ratio": 0.9
+        },
+        {
+          "td_allow_use_two_tracks": true,
+          "td_curve_segcount": 0,
+          "td_height_ratio": 1.0,
+          "td_length_ratio": 0.5,
+          "td_maxheight": 2.0,
+          "td_maxlen": 1.0,
+          "td_on_pad_in_zone": false,
+          "td_target_name": "td_track_end",
+          "td_width_to_size_filter_ratio": 0.9
+        }
+      ],
+      "track_widths": [
+        0.0
+      ],
+      "tuning_pattern_settings": {
+        "diff_pair_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 1.0
+        },
+        "diff_pair_skew_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 0.6
+        },
+        "single_track_defaults": {
+          "corner_radius_percentage": 80,
+          "corner_style": 1,
+          "max_amplitude": 1.0,
+          "min_amplitude": 0.2,
+          "single_sided": false,
+          "spacing": 0.6
+        }
+      },
+      "via_dimensions": [
+        {
+          "diameter": 0.0,
+          "drill": 0.0
+        }
+      ],
+      "zones_allow_external_fillets": false
+    },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
+    "layer_pairs": [],
+    "layer_presets": [],
+    "viewports": []
+  },
+  "boards": [],
+  "cvpcb": {
+    "equivalence_files": []
+  },
+  "erc": {
+    "erc_exclusions": [],
+    "meta": {
+      "version": 0
+    },
+    "pin_map": [
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        1,
+        0,
+        1,
+        2
+      ],
+      [
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        1,
+        1,
+        2,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        1,
+        1,
+        1,
+        1,
+        1,
+        0,
+        1,
+        1,
+        1,
+        1,
+        1,
+        2
+      ],
+      [
+        0,
+        0,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        0,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        2,
+        0,
+        0,
+        1,
+        0,
+        2,
+        2,
+        2,
+        2
+      ],
+      [
+        0,
+        2,
+        0,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        0,
+        2,
+        1,
+        1,
+        0,
+        0,
+        1,
+        0,
+        2,
+        0,
+        0,
+        2
+      ],
+      [
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2,
+        2
+      ]
+    ],
+    "rule_severities": {
+      "bus_definition_conflict": "error",
+      "bus_entry_needed": "error",
+      "bus_to_bus_conflict": "error",
+      "bus_to_net_conflict": "error",
+      "different_unit_footprint": "error",
+      "different_unit_net": "error",
+      "duplicate_reference": "error",
+      "duplicate_sheet_names": "error",
+      "endpoint_off_grid": "warning",
+      "extra_units": "error",
+      "footprint_filter": "ignore",
+      "footprint_link_issues": "warning",
+      "four_way_junction": "ignore",
+      "global_label_dangling": "warning",
+      "hier_label_mismatch": "error",
+      "label_dangling": "error",
+      "label_multiple_wires": "warning",
+      "lib_symbol_issues": "warning",
+      "lib_symbol_mismatch": "warning",
+      "missing_bidi_pin": "warning",
+      "missing_input_pin": "warning",
+      "missing_power_pin": "error",
+      "missing_unit": "warning",
+      "multiple_net_names": "warning",
+      "net_not_bus_member": "warning",
+      "no_connect_connected": "warning",
+      "no_connect_dangling": "warning",
+      "pin_not_connected": "error",
+      "pin_not_driven": "error",
+      "pin_to_pin": "warning",
+      "power_pin_not_driven": "error",
+      "same_local_global_label": "warning",
+      "similar_label_and_power": "warning",
+      "similar_labels": "warning",
+      "similar_power": "warning",
+      "simulation_model_issue": "ignore",
+      "single_global_label": "ignore",
+      "unannotated": "error",
+      "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
+      "unit_value_mismatch": "error",
+      "unresolved_variable": "error",
+      "wire_dangling": "error"
+    }
+  },
+  "libraries": {
+    "pinned_footprint_libs": [],
+    "pinned_symbol_libs": []
+  },
+  "meta": {
+    "filename": "ESP32-S3-MINI-1_UU.kicad_pro",
+    "version": 3
+  },
+  "net_settings": {
+    "classes": [
+      {
+        "bus_width": 12,
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_via_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "line_style": 0,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "Default",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 2147483647,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.2,
+        "via_diameter": 0.6,
+        "via_drill": 0.3,
+        "wire_width": 6
+      }
+    ],
+    "meta": {
+      "version": 4
+    },
+    "net_colors": null,
+    "netclass_assignments": null,
+    "netclass_patterns": []
+  },
+  "pcbnew": {
+    "last_paths": {
+      "gencad": "",
+      "idf": "",
+      "netlist": "",
+      "plot": "Gerber/",
+      "pos_files": "",
+      "specctra_dsn": "",
+      "step": "",
+      "svg": "",
+      "vrml": ""
+    },
+    "page_layout_descr_file": ""
+  },
+  "schematic": {
+    "annotate_start_num": 0,
+    "bom_export_filename": "${PROJECTNAME}.csv",
+    "bom_fmt_presets": [],
+    "bom_fmt_settings": {
+      "field_delimiter": ",",
+      "keep_line_breaks": false,
+      "keep_tabs": false,
+      "name": "CSV",
+      "ref_delimiter": ",",
+      "ref_range_delimiter": "",
+      "string_delimiter": "\""
+    },
+    "bom_presets": [],
+    "bom_settings": {
+      "exclude_dnp": false,
+      "fields_ordered": [
+        {
+          "group_by": false,
+          "label": "Reference",
+          "name": "Reference",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Value",
+          "name": "Value",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "DNP",
+          "name": "${DNP}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from BOM",
+          "name": "${EXCLUDE_FROM_BOM}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Exclude from Board",
+          "name": "${EXCLUDE_FROM_BOARD}",
+          "show": true
+        },
+        {
+          "group_by": true,
+          "label": "Footprint",
+          "name": "Footprint",
+          "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Datasheet",
+          "name": "Datasheet",
+          "show": true
+        }
+      ],
+      "filter_string": "",
+      "group_symbols": true,
+      "include_excluded_from_bom": true,
+      "name": "Default Editing",
+      "sort_asc": true,
+      "sort_field": "Reference"
+    },
+    "connection_grid_size": 50.0,
+    "drawing": {
+      "dashed_lines_dash_length_ratio": 12.0,
+      "dashed_lines_gap_length_ratio": 3.0,
+      "default_line_thickness": 6.0,
+      "default_text_size": 50.0,
+      "field_names": [],
+      "intersheets_ref_own_page": false,
+      "intersheets_ref_prefix": "",
+      "intersheets_ref_short": false,
+      "intersheets_ref_show": false,
+      "intersheets_ref_suffix": "",
+      "junction_size_choice": 3,
+      "label_size_ratio": 0.375,
+      "operating_point_overlay_i_precision": 3,
+      "operating_point_overlay_i_range": "~A",
+      "operating_point_overlay_v_precision": 3,
+      "operating_point_overlay_v_range": "~V",
+      "overbar_offset_ratio": 1.23,
+      "pin_symbol_size": 25.0,
+      "text_offset_ratio": 0.15
+    },
+    "legacy_lib_dir": "",
+    "legacy_lib_list": [],
+    "meta": {
+      "version": 1
+    },
+    "net_format_name": "",
+    "page_layout_descr_file": "",
+    "plot_directory": "",
+    "space_save_all_events": true,
+    "spice_current_sheet_as_root": false,
+    "spice_external_command": "spice \"%I\"",
+    "spice_model_current_sheet_as_root": true,
+    "spice_save_all_currents": false,
+    "spice_save_all_dissipations": false,
+    "spice_save_all_voltages": false,
+    "subpart_first_id": 65,
+    "subpart_id_separator": 0
+  },
+  "sheets": [
+    [
+      "1bbc237d-f088-43af-9abf-fa856588f419",
+      "Root"
+    ]
+  ],
+  "text_variables": {}
+}
