@@ -13836,6 +13836,54 @@
 		(layer "Edge.Cuts")
 		(uuid "ed5b68df-aa34-4899-b99e-ba67935e577e")
 	)
+	(gr_text "2026"
+		(at 206.8 113 0)
+		(layer "F.SilkS")
+		(uuid "70b0b693-5f5f-4b74-a3a2-295fcc7a24cf")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "UU"
+		(at 206.6 114.3 0)
+		(layer "F.SilkS")
+		(uuid "ff3f4d38-b16d-434f-b0ef-8ec84fb3161e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom)
+		)
+	)
+	(gr_text "2026"
+		(at 208.7 113 0)
+		(layer "B.SilkS")
+		(uuid "2b32ebae-bf57-4556-8dd0-2df9be35f765")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.05)
+			)
+			(justify left bottom mirror)
+		)
+	)
+	(gr_text "UU"
+		(at 208.8 114.3 0)
+		(layer "B.SilkS")
+		(uuid "e2655f0b-8156-466d-8879-72c03abedf57")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left bottom mirror)
+		)
+	)
 	(dimension
 		(type orthogonal)
 		(layer "Dwgs.User")
