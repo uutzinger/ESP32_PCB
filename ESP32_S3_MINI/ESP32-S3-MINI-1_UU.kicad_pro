@@ -60,22 +60,6 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|199085000|88150000|376d14e5-f568-4f42-8a94-8b5ff6d61c74|c0e5d58e-efa1-42bd-b8a2-76baae5da57b",
-          ""
-        ],
-        [
-          "clearance|199085000|93350000|60e5bf5a-ab74-4aee-ad19-805b28cbef8f|a71d9ca6-37ca-449d-95fa-365053beae26",
-          ""
-        ],
-        [
-          "clearance|201685000|88150000|7d3c39a5-589a-4f12-8401-c6860c4233c2|98cc909a-9593-4c0e-b649-2be45017c787",
-          ""
-        ],
-        [
-          "clearance|201685000|93350000|f97a442f-af63-415e-a819-ab25ec6e6531|0411cf7e-bbb4-4abe-9104-eb0bb9c6a9e5",
-          ""
-        ],
-        [
           "clearance|204587500|97662500|412e11da-a3b0-4689-a8be-866f3b9d09b6|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9",
           ""
         ],
@@ -472,7 +456,7 @@
           ""
         ],
         [
-          "silk_over_copper|197369048|100125000|98e4140f-904c-4adb-9d00-3b268d18cc7f|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|196511905|100150000|98e4140f-904c-4adb-9d00-3b268d18cc7f|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
@@ -480,7 +464,7 @@
           ""
         ],
         [
-          "silk_overlap|194726109|98862500|1503bdaf-e9f6-4e65-bc55-0d3894ff4b9f|66d85047-32b6-4d06-ae37-b56a341394dd",
+          "silk_overlap|194345157|98862500|1503bdaf-e9f6-4e65-bc55-0d3894ff4b9f|66d85047-32b6-4d06-ae37-b56a341394dd",
           ""
         ],
         [
@@ -1080,7 +1064,7 @@
     },
     "net_format_name": "",
     "page_layout_descr_file": "",
-    "plot_directory": "",
+    "plot_directory": "Gerber/",
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
