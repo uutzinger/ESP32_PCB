@@ -27,7 +27,7 @@ Size 20.32 x 47 mm
 </table>
 
 <a href="./ESP32_S3_MINI/ESP32-S3-MINI-1_UU.svg">
-  <img src="./ESP32_S3_MINI/ESP32-S3-MINI-1_UU.svg" alt="Schematic" width="100%">
+  <img src="./ESP32_S3_MINI/Schematic.png" alt="Schematic" width="100%">
 </a>
 
 <a href="./ESP32_S3_MINI/PCB.png">
