@@ -19,7 +19,8 @@ Size 20.32 x 47 mm
 - Tactile buttons (NANOT160AS) [Buttons](ESP32_S3_MINI//datasheets/nanot.pdf)
 - Castellated edge connectors
 
-### [Bill of Materials](ESP32_S3_MINI/BOM.xlsx)
+### Bill of Materials
+- [BOM](ESP32_S3_MINI/BOM.xlsx)
 
 ### Design Materials
 <table>
