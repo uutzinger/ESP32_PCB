@@ -19,6 +19,7 @@ Designed with KiCad.
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
         <li>🌡 Temperature sensor</li>
+        <li>🔘 Bootmode, Reset buttons</li>
       </ul>
     </td>
     <td valign="top" style="width:50%; text-align:center;">
@@ -35,6 +36,7 @@ Designed with KiCad.
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
         <li>🌡 Temperature sensor</li>
+        <li>🔘 Bootmode, Reset buttons</li>
       </ul>
     </td>
   </tr>
