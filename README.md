@@ -1,7 +1,6 @@
 # ESP32 PCBs
 
 Designed with KiCad.
-
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td valign="top" style="width:50%; text-align:center;">
@@ -11,9 +10,16 @@ Designed with KiCad.
              style="max-width:100%; height:auto;">
       </a>
       <br>
-      <b>ESP32-S3-MINI-1</b><br>
-      with antenna, battery management, battery gauge,<br>
-      USB-C, QWIIC, RGB Led, Temp
+      <b>ESP32-S3-MINI-1</b>
+      <ul style="text-align:left; margin:8px auto; max-width:90%; list-style:none; padding-left:0;">
+        <li>📡 Antenna</li>
+        <li>🔋 Battery management</li>
+        <li>📊 Battery gauge</li>
+        <li>⇄ USB-C</li>
+        <li>🔗 QWIIC</li>
+        <li>🌈 RGB LED</li>
+        <li>🌡 Temperature sensor</li>
+      </ul>
     </td>
     <td valign="top" style="width:50%; text-align:center;">
       <a href="./EPS32_S3_1U.md">
@@ -22,8 +28,15 @@ Designed with KiCad.
              style="max-width:100%; height:auto;">
       </a>
       <br>
-      <b>ESP32-S3-MINI-1U</b><br>
-      dual power, USB-C, QWIIC, RGB Led, Temp
+      <b>ESP32-S3-MINI-1U</b>
+      <ul style="text-align:left; margin:8px auto; max-width:90%; list-style:none; padding-left:0;">
+        <li>⚡ Dual power</li>
+        <li>⇄ USB-C</li>
+        <li>🔗 QWIIC</li>
+        <li>🌈 RGB LED</li>
+        <li>🌡 Temperature sensor</li>
+      </ul>
     </td>
   </tr>
 </table>
+
