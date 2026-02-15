@@ -6,7 +6,7 @@ Designed with KiCad.
   <tr>
     <td valign="top">
       <a href="./EPS32_S3_1.md">
-        <img src="./S3-1.png" alt="ESP32-S3-MINI-1" width="100%">
+        <img src="./S3-1.png" alt="ESP32-S3-MINI-1" width="90%">
       </a>
       <br>
       <b>ESP32-S3-MINI-1</b><br>
