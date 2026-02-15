@@ -1,0 +1,125 @@
+(footprint "Castellated_1x01_P2.54mm_D0.80mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Castellated edge pad: 1x01, drill 0.80mm. Place board edge (Edge.Cuts) at x=0 to create half-hole.")
+	(tags "castellated half-hole edge module")
+	(property "Reference" "J?"
+		(at -2 -2.2 0)
+		(layer "F.SilkS")
+		(uuid "a094fca4-172e-4859-a4fb-072736b11e12")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Castellated_1x01"
+		(at -2 2.2 0)
+		(layer "F.Fab")
+		(uuid "4671c337-c8d4-4e46-ac58-c4ac85e1f39a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1213fedf-3c5e-4aac-8be2-0588ad10978f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f5a0b64c-8f24-4226-8403-e595373dd629")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -2)
+		(end 0 2)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "eb2734c6-7e50-48ff-859c-63aca6c58a2e")
+	)
+	(fp_line
+		(start -1.2 -1.2)
+		(end 1.2 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e882b5f2-604d-4a2e-ab3b-a88e3608519e")
+	)
+	(fp_line
+		(start -1.2 1.2)
+		(end -1.2 -1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "83c5addc-a002-47ea-a67e-0de620863c4a")
+	)
+	(fp_line
+		(start 1.2 -1.2)
+		(end 1.2 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "ab99be86-7c0e-4edc-9997-6c74ebbcf748")
+	)
+	(fp_line
+		(start 1.2 1.2)
+		(end -1.2 1.2)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a7df3b0c-2864-4b84-b2b8-030fa0ab6458")
+	)
+	(fp_text user "EDGE.CUTS @ x=0"
+		(at 3 0 90)
+		(layer "Dwgs.User")
+		(uuid "e1f45b0c-c732-4f05-b1ca-ec304063dff5")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 0)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "59526452-3d0f-4893-83e4-19f85de44c6e")
+	)
+	(embedded_fonts no)
+)

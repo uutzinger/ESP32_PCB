@@ -1,0 +1,165 @@
+(footprint "Castellated_1x06_P2.54mm_D0.80mm"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Castellated edge pads: 1x08, 2.54mm pitch, drill 0.80mm. Place board edge (Edge.Cuts) at x=0 to create half-holes.")
+	(tags "castellated half-hole edge module")
+	(property "Reference" "J?"
+		(at -2.85 0.05 0)
+		(layer "F.SilkS")
+		(uuid "4d6d5ad5-b525-4788-a080-3d9bfbf3611f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "Castellated_1x06"
+		(at -2 10 0)
+		(layer "F.Fab")
+		(uuid "acbdea36-6917-41ea-adf1-381dc1ed4f3e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "341d2e11-e068-4beb-8e8b-e84f488aedde")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "24570182-d48f-4bcd-ba29-8e4a54de451e")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole)
+	(fp_line
+		(start 0 -9.5)
+		(end 0 9.5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "9972adb1-584e-4a8b-920d-b5b37ab264ba")
+	)
+	(fp_line
+		(start -1.2 -7.66)
+		(end 1.2 -7.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "43bc6bdd-ebda-4d36-bab5-6ac498a3bfc5")
+	)
+	(fp_line
+		(start -1.2 7.66)
+		(end -1.2 -7.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8e7685c0-1523-4b72-b3b8-6da1ade14afe")
+	)
+	(fp_line
+		(start 1.2 -7.66)
+		(end 1.2 7.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "4a910ba7-33d9-4994-9089-56fa96f54dff")
+	)
+	(fp_line
+		(start 1.2 7.66)
+		(end -1.2 7.66)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b0e7d7f7-cd5e-4d44-a182-f343e6ad869d")
+	)
+	(fp_text user "EDGE.CUTS @ x=0"
+		(at 3 0 90)
+		(layer "Dwgs.User")
+		(uuid "4425f1bc-3f32-4ae0-9367-ddab2e04a145")
+		(effects
+			(font
+				(size 0.9 0.9)
+				(thickness 0.12)
+			)
+		)
+	)
+	(pad "1" thru_hole rect
+		(at 0 -6.35)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "217c8fdf-4e31-4142-a074-83bfd7b3cf96")
+	)
+	(pad "2" thru_hole circle
+		(at 0 -3.81)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "cf2e3979-d19b-452b-92da-ff4b4802ed82")
+	)
+	(pad "3" thru_hole circle
+		(at 0 -1.27)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "1ccc1b30-26d1-49ab-8ef7-438721b7a670")
+	)
+	(pad "4" thru_hole circle
+		(at 0 1.27)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "0638bf32-7677-4bd6-8c11-3951c2a5c70b")
+	)
+	(pad "5" thru_hole circle
+		(at 0 3.81)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "f93a059a-c865-4778-a059-73cbc4272493")
+	)
+	(pad "6" thru_hole circle
+		(at 0 6.35)
+		(size 1.6 1.6)
+		(drill 0.8)
+		(layers "*.Cu" "*.Mask")
+		(remove_unused_layers no)
+		(uuid "a704d5d5-030b-45de-8d81-22f067222ff8")
+	)
+	(embedded_fonts no)
+)

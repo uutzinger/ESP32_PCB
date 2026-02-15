@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP NANOT160AS
+D Tactile Switch SPST 20mA 15VDC SMD/SMT Non-Illuminated -40C ~ 85C
+K
+F https://www.ckswitches.com/media/2866/nanot.pdf
+$ENDCMP
+#
+#End Doc Library
