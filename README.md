@@ -31,7 +31,7 @@ Designed with KiCad.
       <br>
       <b>ESP32-S3-MINI-1U</b>
       <ul style="text-align:left; margin:8px auto; max-width:90%; list-style:none; padding-left:0;">
-        <li>⚡ Dual power</li>
+        <li>⚡ Dual supply power</li>
         <li>⇄ USB-C</li>
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
