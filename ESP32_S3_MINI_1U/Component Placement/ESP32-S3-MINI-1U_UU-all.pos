@@ -1,0 +1,41 @@
+### Footprint positions - created on 2026-02-16T13:30:41-0700 ###
+### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : All
+# Ref     Val                   Package                                PosX       PosY       Rot  Side
+C1        10uF                  C_0402_1005Metric                  179.1600  -141.5000   90.0000  top
+C2        10uF                  C_0402_1005Metric                  180.1600  -141.5000   90.0000  top
+C3        22uF                  C_0402_1005Metric                  173.4000  -116.0000  180.0000  top
+C4        0u1F                  C_0402_1005Metric                  173.4200  -117.0000  180.0000  top
+C5        10uF                  C_0402_1005Metric                  177.0600  -144.7000  180.0000  top
+C9        4u7F                  C_0402_1005Metric                  179.5400  -139.8000    0.0000  top
+C10       0u1F                  C_0402_1005Metric                  177.1500  -138.0500    0.0000  top
+C11       0u1F                  C_0402_1005Metric                  187.4200  -145.3000    0.0000  top
+C12       0u1F                  C_0402_1005Metric                  187.4000  -138.0500  180.0000  top
+C14       10nF                  C_0402_1005Metric                  185.6000  -140.2800   90.0000  top
+D1        ESD9B5.0ST5G          D_SOD-923                          179.6150  -138.8000  180.0000  top
+D4        LED                   LED_0402_1005Metric                183.4600  -140.8000  180.0000  top
+D5        LED                   LED_0402_1005Metric                179.2000  -132.5350   90.0000  top
+D6        WS2812B               WS2812_2020                        187.4850  -147.1150  180.0000  top
+D7        ESD9101P2T5G          D_SOD-923                          183.9000  -129.3000  180.0000  top
+D8        ESD9101P2T5G          D_SOD-923                          181.8000  -129.3000    0.0000  top
+IC1       TPS6282533DMQR        TPS6282533DMQR                     179.4100  -143.6000  180.0000  top
+J2        USB4120-03-C          USB412003C                         182.7850  -135.0500   90.0000  top
+J3        Qwiic_Vertical        JST_1x04_P1.0mm_Vertical_SMD       183.6500  -144.8000   90.0000  top
+L1        TFM160808ALC-R47MTAA  INDC1608X75N                       177.0600  -142.7000   90.0000  top
+R1        100k                  R_0402_1005Metric                  181.1600  -143.8000  -90.0000  top
+R4        5k1                   R_0402_1005Metric                  185.7850  -134.8000  -90.0000  top
+R5        5k1                   R_0402_1005Metric                  179.6500  -135.0500   90.0000  top
+R11       2k2                   R_0402_1005Metric                  181.5500  -140.8000    0.0000  top
+R12       2k2                   R_0402_1005Metric                  178.2000  -132.5600  -90.0000  top
+R13       10k                   R_0402_1005Metric                  177.1500  -139.0500    0.0000  top
+R14       4k7                   R_0402_1005Metric                  187.4000  -143.3000  180.0000  top
+R16       4k7                   R_0402_1005Metric                  187.4000  -144.3000  180.0000  top
+R17       10k                   R_0402_1005Metric                  187.4000  -139.0500    0.0000  top
+S1        NANOT160AS            NANOT160AS                         176.9000  -135.7000  -90.0000  top
+S2        NANOT160AS            NANOT160AS                         187.6500  -135.7000  -90.0000  top
+U1        ESP32-S3-MINI-1U      ESP32-S2-MINI-1U                   182.4000  -120.8000    0.0000  top
+U2        LM66100DCK            SOT-363_SC-70-6                    177.6600  -147.4000   90.0000  top
+U3        LM66100DCK            SOT-363_SC-70-6                    180.2600  -147.4000   90.0000  top
+U4        TMP102                SOT-563                            187.4000  -141.5000   90.0000  top
+## End

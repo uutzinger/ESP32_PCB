@@ -1,6 +1,12 @@
 # ESP32 PCBs
 
-Designed with KiCad.
+Designed with KiCad by Urs Utzinger, February 2026.
+
+A) Full size battery operated ESP32-S3-Mini
+B) Minimial size ESP32-S3.
+
+Based on S3-mini module.
+
 <table style="width:100%; table-layout:fixed;">
   <tr>
     <td valign="top" style="width:50%; text-align:center;">
@@ -15,7 +21,7 @@ Designed with KiCad.
         <li>📡 Antenna</li>
         <li>🔋 Battery management</li>
         <li>📊 Battery gauge</li>
-        <li>⚡ Dual supply power</li>
+        <li>⚡ Dual supply power (ext 5V or USB 5V) </li>
         <li>⇄ USB-C</li>
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
@@ -32,7 +38,7 @@ Designed with KiCad.
       <br>
       <b>ESP32-S3-MINI-1U</b>
       <ul style="text-align:left; margin:8px auto; max-width:90%; list-style:none; padding-left:0;">
-        <li>⚡ Dual supply power</li>
+        <li>⚡ Dual supply power (external 5V or USB 5V)</li>
         <li>⇄ USB-C</li>
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
