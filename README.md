@@ -15,6 +15,7 @@ Designed with KiCad.
         <li>📡 Antenna</li>
         <li>🔋 Battery management</li>
         <li>📊 Battery gauge</li>
+        <li>⚡ Dual supply power</li>
         <li>⇄ USB-C</li>
         <li>🔗 QWIIC</li>
         <li>🌈 RGB LED</li>
