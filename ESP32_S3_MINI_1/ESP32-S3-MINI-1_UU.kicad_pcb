@@ -10158,7 +10158,7 @@
 			(uuid "3c134c51-923b-412a-bc98-696e13cc2f58")
 		)
 		(embedded_fonts no)
-		(model "${ESP32}/NANOT160AS.step"
+		(model "${LOCAL}/NANOT160AS.step"
 			(offset
 				(xyz -1.049999937 -0.8199999805 0)
 			)
@@ -13240,7 +13240,7 @@
 			(uuid "00311826-d7fb-4cbe-810a-13abff0b1359")
 		)
 		(embedded_fonts no)
-		(model "${ESP32}/NANOT160AS.step"
+		(model "${LOCAL}/NANOT160AS.step"
 			(offset
 				(xyz -1.049999937 -0.8199999805 0)
 			)
@@ -13591,7 +13591,7 @@
 			(uuid "59122bb8-95af-417a-9761-c98e1a84e8bc")
 		)
 		(embedded_fonts no)
-		(model "${ESP32}/TPS6282533DMQR.step"
+		(model "${LOCAL}/TPS6282533DMQR.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -14631,18 +14631,6 @@
 				(size 0.5 0.5)
 				(thickness 0.1)
 				(bold yes)
-			)
-			(justify left bottom)
-		)
-	)
-	(gr_text "CHRG"
-		(at 175.9 148.2 270)
-		(layer "F.SilkS")
-		(uuid "71908509-f230-4cb7-aba0-75dbb7540554")
-		(effects
-			(font
-				(size 0.5 0.5)
-				(thickness 0.1)
 			)
 			(justify left bottom)
 		)
