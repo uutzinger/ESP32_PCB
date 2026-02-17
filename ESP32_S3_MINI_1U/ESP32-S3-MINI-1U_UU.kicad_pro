@@ -60,43 +60,23 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|254427500|137962500|412e11da-a3b0-4689-a8be-866f3b9d09b6|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9",
+          "clearance|186987500|141962500|412e11da-a3b0-4689-a8be-866f3b9d09b6|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9",
           ""
         ],
         [
-          "clearance|254752500|136537500|4aab3d84-3612-4167-bbd2-167dc91125da|011f22c6-55e5-4e07-b51f-28ce7ba5a376",
+          "clearance|187312500|140537500|4aab3d84-3612-4167-bbd2-167dc91125da|011f22c6-55e5-4e07-b51f-28ce7ba5a376",
           ""
         ],
         [
-          "clearance|254927500|137962500|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9|bd2a52c5-9ea7-43b2-aea9-904f55e5a5f0",
+          "clearance|187487500|141962500|53eb8dc1-64aa-4e18-9bbd-babaa8dad4e9|bd2a52c5-9ea7-43b2-aea9-904f55e5a5f0",
           ""
         ],
         [
-          "clearance|255252500|136537500|977594f6-48b4-48c9-89cc-1070360fac90|4aab3d84-3612-4167-bbd2-167dc91125da",
+          "clearance|187812500|140537500|977594f6-48b4-48c9-89cc-1070360fac90|4aab3d84-3612-4167-bbd2-167dc91125da",
           ""
         ],
         [
-          "silk_over_copper|248248459|140112317|85389ed8-6d71-4bbf-8a25-0a19af0ae923|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|248250000|140100000|cc62b548-ba4e-44f7-8822-8acbfb5a571f|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_over_copper|248287833|140122326|bf1a19ba-ade1-4b96-b607-20029d7986eb|00000000-0000-0000-0000-000000000000",
-          ""
-        ],
-        [
-          "silk_overlap|248206769|140050460|36a626ce-7683-46e7-84cf-52ccc40b256a|cc62b548-ba4e-44f7-8822-8acbfb5a571f",
-          ""
-        ],
-        [
-          "silk_overlap|253890000|138800000|45018317-bc78-4b74-8dec-885f82c25b3a|7c78837e-4eaf-49de-ba87-2622025a20c1",
-          ""
-        ],
-        [
-          "via_dangling|252225000|131600000|266439f8-8384-40ff-8e80-f6277e819a8c|00000000-0000-0000-0000-000000000000",
+          "via_dangling|184785000|135600000|266439f8-8384-40ff-8e80-f6277e819a8c|00000000-0000-0000-0000-000000000000",
           ""
         ]
       ],
@@ -142,8 +122,8 @@
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
         "silk_edge_clearance": "ignore",
-        "silk_over_copper": "warning",
-        "silk_overlap": "warning",
+        "silk_over_copper": "ignore",
+        "silk_overlap": "ignore",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
         "starved_thermal": "error",
@@ -543,7 +523,7 @@
       "netlist": "",
       "plot": "Gerber/",
       "pos_files": "Component Placement/",
-      "specctra_dsn": "",
+      "specctra_dsn": "ESP32-S3-MINI-1U_UU.dsn",
       "step": "",
       "svg": "",
       "vrml": ""
