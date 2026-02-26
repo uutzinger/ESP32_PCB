@@ -1,4 +1,4 @@
-### Footprint positions - created on 2026-02-16T13:30:41-0700 ###
+### Footprint positions - created on 2026-02-25T11:11:55-0700 ###
 ### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
 ## Unit = mm, Angle = deg.
 ## Side : All
@@ -17,14 +17,18 @@ D1        ESD9B5.0ST5G          D_SOD-923                          179.6150  -13
 D4        LED                   LED_0402_1005Metric                183.4600  -140.8000  180.0000  top
 D5        LED                   LED_0402_1005Metric                179.2000  -132.5350   90.0000  top
 D6        WS2812B               WS2812_2020                        187.4850  -147.1150  180.0000  top
-D7        ESD9101P2T5G          D_SOD-923                          183.9000  -129.3000  180.0000  top
+D7        ESD9101P2T5G          D_SOD-923                          183.8500  -129.3000  180.0000  top
 D8        ESD9101P2T5G          D_SOD-923                          181.8000  -129.3000    0.0000  top
 IC1       TPS6282533DMQR        TPS6282533DMQR                     179.4100  -143.6000  180.0000  top
+J1        Castellated_1x07      Castellated_1x07_P2.54mm_D0.80mm   182.4000  -151.1000   90.0000  top
 J2        USB4120-03-C          USB412003C                         182.7850  -135.0500   90.0000  top
 J3        Qwiic_Vertical        JST_1x04_P1.0mm_Vertical_SMD       183.6500  -144.8000   90.0000  top
+J4        Castellated_1x01      Castellated_1x01_P2.54mm_D0.80mm   172.2400  -114.2700    0.0000  top
+J5        Castellated_1x13      Castellated_1x13_P2.54mm_D0.80mm   172.2400  -134.6000    0.0000  top
+J6        Castellated_1x15      Castellated_1x15_P2.54mm_D0.80mm   192.5600  -132.0400    0.0000  top
 L1        TFM160808ALC-R47MTAA  INDC1608X75N                       177.0600  -142.7000   90.0000  top
 R1        100k                  R_0402_1005Metric                  181.1600  -143.8000  -90.0000  top
-R4        5k1                   R_0402_1005Metric                  185.7850  -134.8000  -90.0000  top
+R4        5k1                   R_0402_1005Metric                  185.8500  -135.0500  -90.0000  top
 R5        5k1                   R_0402_1005Metric                  179.6500  -135.0500   90.0000  top
 R11       2k2                   R_0402_1005Metric                  181.5500  -140.8000    0.0000  top
 R12       2k2                   R_0402_1005Metric                  178.2000  -132.5600  -90.0000  top
