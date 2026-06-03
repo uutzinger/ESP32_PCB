@@ -3,15 +3,15 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.7-9.0.7~ubuntu22.04.1"
+      "Version": "10.0.3-10.0.3~ubuntu24.04.1"
     },
-    "CreationDate": "2026-02-25T11:11:38-07:00"
+    "CreationDate": "2026-06-02T22:32:42-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
       "Name": "ESP32-S3-MINI-1U_UU",
       "GUID": "45535033-322d-4533-932d-4d494e492d31",
-      "Revision": "rev?"
+      "Revision": "1.1"
     },
     "Size": {
       "X": 20.37,
@@ -24,9 +24,9 @@
   "DesignRules": [
     {
       "Layers": "Outer",
-      "PadToPad": 0.2,
-      "PadToTrack": 0.2,
-      "TrackToTrack": 0.2,
+      "PadToPad": 0.15,
+      "PadToTrack": 0.15,
+      "TrackToTrack": 0.15,
       "MinLineWidth": 0.15,
       "TrackToRegion": 0.2,
       "RegionToRegion": 0.2

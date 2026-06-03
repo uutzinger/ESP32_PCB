@@ -3,9 +3,9 @@
     "GenerationSoftware": {
       "Vendor": "KiCad",
       "Application": "Pcbnew",
-      "Version": "9.0.7-9.0.7~ubuntu22.04.1"
+      "Version": "10.0.3-10.0.3~ubuntu24.04.1"
     },
-    "CreationDate": "2026-02-25T11:10:05-07:00"
+    "CreationDate": "2026-06-03T10:26:17-07:00"
   },
   "GeneralSpecs": {
     "ProjectId": {
@@ -19,7 +19,8 @@
     },
     "LayerNumber": 2,
     "BoardThickness": 1.6,
-    "Finish": "None"
+    "Finish": "None",
+    "Castellated": true
   },
   "DesignRules": [
     {

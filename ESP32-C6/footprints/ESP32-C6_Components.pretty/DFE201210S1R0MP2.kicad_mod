@@ -1,0 +1,277 @@
+(footprint "DFE201210S1R0MP2"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "0805 (2012) T=1.0mm")
+	(tags "Inductor")
+	(property "Reference" "L1"
+		(at -4.2 -1.45 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "48ffdcbc-093b-43f0-9e3e-3caa0ff6dc84")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "DFE201210S-2R2M=P2"
+		(at 0 0 180)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "b2270f81-2f49-447d-8d99-23ef93f6b0d8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://psearch.en.murata.com/inductor/product/DFE201210S-2R2M%23.html"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4eee2549-18d2-41e2-aa5d-af84aa83bff8")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "DFE201210S Series Inductor 2.2uH +/-20% 0805 (2012)"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "6bcebaeb-5ee7-4f20-b3e3-689f4492d38c")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "1"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "9c4238ed-71ed-4834-9233-2f19bfdf0499")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Murata Electronics"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "8f0ddc86-0f06-488e-b758-f36a16892007")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "DFE201210S-2R2M=P2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "d246522b-87ab-49ae-9802-00a8db27ce3f")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "81-DFE201210S-2R2MP2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "c6eb55b1-610a-4433-95a7-ebeb2b0cb067")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Murata-Electronics/DFE201210S-2R2M%3dP2?qs=AQlKX63v8RsffUVc8Yv8PQ%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "27181350-0438-4f37-a76b-8c8b3b4d057e")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "DFE201210S-2R2M=P2"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "dd4957cb-4a68-4d42-b574-59598c527063")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/dfe201210s-2r2mp2/murata-manufacturing?region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "19308c06-d4b8-4316-9e6b-49bd8f48f838")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "ESP32-C6.kicad_sch")
+	(attr smd dnp)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start 0 -0.6)
+		(end 0 0.6)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "3d2fd917-a860-4a76-be85-5475b1d217d3")
+	)
+	(fp_line
+		(start -1.725 -0.95)
+		(end 1.725 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "c405558a-4e9a-4bee-a80c-b7031968c6ec")
+	)
+	(fp_line
+		(start -1.725 0.95)
+		(end -1.725 -0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e2305caf-f863-420c-90d1-b6049b60be0b")
+	)
+	(fp_line
+		(start 1.725 -0.95)
+		(end 1.725 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "8d44a14d-eb29-4818-8c6c-308ce84022df")
+	)
+	(fp_line
+		(start 1.725 0.95)
+		(end -1.725 0.95)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "04939727-de29-4c0d-ba9f-1e5de441fcda")
+	)
+	(fp_line
+		(start -1 -0.6)
+		(end 1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "418960dc-4baf-4214-9450-733047c5c65e")
+	)
+	(fp_line
+		(start -1 0.6)
+		(end -1 -0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "19b9e75b-c892-4ddd-a58a-f97143aae600")
+	)
+	(fp_line
+		(start 1 -0.6)
+		(end 1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "2b6f5e9e-426a-4f2f-90da-8d4ba2bef3b0")
+	)
+	(fp_line
+		(start 1 0.6)
+		(end -1 0.6)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e1ec791-d5c3-4eb6-bf09-dca39c21df10")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 180)
+		(layer "F.Fab")
+		(uuid "6503a8af-189d-4df6-b3e6-569ade1123b3")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.8 0)
+		(size 0.8 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6492f8c1-874c-4df7-97f0-8e7f6ce14043")
+	)
+	(pad "2" smd rect
+		(at 0.8 0)
+		(size 0.8 1.4)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "16ea37bd-52ac-4db6-b074-b950867e8cef")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D/DFE201210S-2R2M=P2.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz -0 -0 -0)
+		)
+	)
+)

@@ -1,17 +1,17 @@
-## ESP32-S3-MINI-1
+## ESP32-S3-MINI-1U
 
 Size 20.32 x 38.1 mm
 
-- ESP32-S3-MINI-1 module ,main [MCU](ESP32_S3_MINI_1/datasheets/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)
-- TPS6282533DMQR 3.3V step-down [Voltage Regulator](ESP32_S3_MINI_1/datasheets/tps62825.pdf)
-- TMP102 digital temperature sensor, [TMP102 temperature sensor](ESP32_S3_MINI_1/datasheets/TMP102.pdf)
-- USB4120-03-C (USB-C receptacle)[ESP32_S3_MINI_1/USB4120-03-C USB-C receptacle](ESP32_S3_MINI_1/datasheets/USB4120-03-C.pdf) + ESD protection (ESD9B5.0ST5G)
-- WS2812B 2020 RGB LED [WS2812B 2020 RGB LED](ESP32_S3_MINI_1/datasheets/WS2812B-2020.pdf), + discrete status LEDs (green/red), 
-- Qwiic JST-SH 1.0mm 4-pin connector (I2C), [JST SH 1.0mm (Qwiic)](ESP32_S3_MINI_1/datasheets/JST_SH_1.0mm.pdf)
-datasheets/JST_PH_2.0mm.pdf)
-- Power stage [TFM160808ALC-R47MTAA inductor](ESP32_S3_MINI_1/datasheets/TFM160808ALC.pdf)
-- Tactile buttons (NANOT160AS) [Buttons](ESP32_S3_MINI_1//datasheets/nanot.pdf)
-- Power switch and reverse polarity protection [LM66100](ESP32_S3_MINI_1U/datasheets/lm66100pdf)
+- ESP32-S3-MINI-1U module ,main [MCU](ESP32_S3_MINI_1/assets/esp32-s3-mini-1_mini-1u_datasheet_en.pdf)
+- TPS6282533DMQR 3.3V step-down [Voltage Regulator](ESP32_S3_MINI_1/assets/tps62825.pdf)
+- TMP112 digital temperature sensor, [TMP112 temperature sensor](ESP32_S3_MINI_1/assets/TMP112.pdf)
+- USB4120-03-C (USB-C receptacle)[ESP32_S3_MINI_1/USB4120-03-C USB-C receptacle](ESP32_S3_MINI_1/assets/USB4120-03-C.pdf) + ESD protection (ESD9B5.0ST5G)
+- WS2812B 2020 RGB LED [WS2812B 2020 RGB LED](ESP32_S3_MINI_1/assets/WS2812B-2020.pdf), + discrete status LEDs (green/red), 
+- Qwiic JST-SH 1.0mm 4-pin connector (I2C), [JST SH 1.0mm (Qwiic)](ESP32_S3_MINI_1/assets/JST_SH_1.0mm.pdf)
+assets/JST_PH_2.0mm.pdf)
+- Power stage [TFM160808ALC-R47MTAA inductor](ESP32_S3_MINI_1/assets/TFM160808ALC.pdf)
+- Tactile buttons (NANOT160AS) [Buttons](ESP32_S3_MINI_1//assets/nanot.pdf)
+- Power switch and reverse polarity protection [LM66100](ESP32_S3_MINI_1U/assets/lm66100pdf)
 - Castellated edge connectors
 
 ### Bill of Materials

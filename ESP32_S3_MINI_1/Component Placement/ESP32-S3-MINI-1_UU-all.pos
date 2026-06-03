@@ -1,5 +1,5 @@
-### Footprint positions - created on 2026-02-25T11:10:40-0700 ###
-### Printed by KiCad version 9.0.7-9.0.7~ubuntu22.04.1
+### Footprint positions - created on 2026-06-03T08:52:42 ###
+### Printed by KiCad version 10.0.3-10.0.3~ubuntu24.04.1
 ## Unit = mm, Angle = deg.
 ## Side : All
 # Ref     Val                   Package                                PosX       PosY       Rot  Side
@@ -17,14 +17,14 @@ C11       0u1F                  C_0402_1005Metric                  187.4000  -14
 C12       0u1F                  C_0402_1005Metric                  187.4000  -138.0500  180.0000  top
 C14       10nF                  C_0402_1005Metric                  185.6000  -140.2800   90.0000  top
 C15       0.1uF                 C_0402_1005Metric                  180.7000  -148.9000    0.0000  top
-D1        ESD9B5.0ST5G          D_SOD-923                          179.6150  -138.8000  180.0000  top
+D1        ESD9B5.0ST5G          D_SOD-923                          179.6150  -138.8000    0.0000  top
 D2        LED_GRN               LED_0402_1005Metric                177.2000  -147.3000   90.0000  top
 D3        LED_RED               LED_0402_1005Metric                178.1000  -153.2000    0.0000  top
 D4        LED                   LED_0402_1005Metric                183.3850  -140.8000  180.0000  top
 D5        LED                   LED_0402_1005Metric                179.2000  -132.5350   90.0000  top
 D6        WS2812B               WS2812_2020                        187.4850  -147.0000  180.0000  top
-D7        ESD9101P2T5G          D_SOD-923                          183.8500  -129.3000  180.0000  top
-D8        ESD9101P2T5G          D_SOD-923                          181.8000  -129.3000    0.0000  top
+D7        ESD9101P2T5G          SODFL1006X40N                      183.8500  -129.3000    0.0000  top
+D8        ESD9101P2T5G          SODFL1006X40N                      181.8000  -129.3000  180.0000  top
 IC1       TPS6282533DMQR        TPS6282533DMQR                     179.4100  -143.6000  180.0000  top
 IC2       BQ25185DLHR           SON40P220X200X80-11N               177.0000  -151.0000  -90.0000  top
 J1        JST_2mm_LiPo          JST_1x02_P2.0mm_Horizontal_SMD     186.2000  -155.4000  180.0000  top
@@ -55,6 +55,6 @@ TH1       10k                   R_0402_1005Metric                  175.1000  -15
 U1        LM66100DCK            SOT-363_SC-70-6                    178.0500  -155.9875   90.0000  top
 U2        ESP32-S3-MINI-1       ESP32-S2-MINI-1                    182.4000  -118.2500    0.0000  top
 U3        MAX17048              DFN-8_2x2mm_P0.5mm_EP1.2x0.8mm     180.4440  -146.9000   90.0000  top
-U4        TMP102                SOT-563                            187.4000  -141.5000   90.0000  top
+U4        TMP112A               SOT-563                            187.4000  -141.5000   90.0000  top
 U5        LM66100DCK            SOT-363_SC-70-6                    180.6000  -155.9875   90.0000  top
 ## End

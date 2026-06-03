@@ -1,0 +1,296 @@
+(footprint "SODFL1006X40N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "SOD-923 CASE 514AB-01 ISSUE C")
+	(tags "TVS Diode (Uni-directional)")
+	(property "Reference" "D7"
+		(at -0.15 -0.7 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "30eb9b3e-1d40-4180-8c96-137ff0b095d5")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "ESD9101P2T5G"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "a79d24a2-720b-4c41-aaf6-0c0febb5dc13")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.onsemi.com/pub/Collateral/ESD9101-D.PDF"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a2b382b4-4151-4b7b-b4d0-2b6f5da8c284")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Description" "Low Capacitance (0.5pF Max, I/O to GND); Low ESD Clamping Voltage"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "93c4d1f4-29b0-49ce-9e3d-b68925695f83")
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+	)
+	(property "Height" "0.4"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "16739f07-e918-4ce2-ac49-071529abf765")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "onsemi"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "5c078a30-8a9b-440f-93a0-f5977432c827")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "ESD9101P2T5G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4660ba9b-42eb-4ee7-97e8-bb91c8751087")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "863-ESD9101P2T5G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7b757d74-7ecb-44b8-ab33-0c0011664fdf")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/onsemi/ESD9101P2T5G?qs=5aG0NVq1C4ySlMx2D5w2xw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "81c8f175-e042-480b-babb-4f8acdaebe98")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" "ESD9101P2T5G"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2baa38dc-1344-4800-be05-e5f276770479")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" "https://www.arrow.com/en/products/esd9101p2t5g/on-semiconductor?utm_currency=USD&region=nac"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f350012f-d563-44c2-afef-4f0ed4915c63")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "ESP32-S3-MINI-1U_UU.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -0.755 -0.3)
+		(end 0.4 -0.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "5bb638ce-f514-463b-955c-85c89bdf305f")
+	)
+	(fp_line
+		(start -0.4 0.3)
+		(end 0.4 0.3)
+		(stroke
+			(width 0.2)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "8cf4fc69-1def-4871-8c72-c9d23a52538b")
+	)
+	(fp_line
+		(start -0.905 -0.475)
+		(end 0.905 -0.475)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "923972c6-c413-49f0-b642-acb7b5ff5584")
+	)
+	(fp_line
+		(start -0.905 0.475)
+		(end -0.905 -0.475)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "dc2d3ea9-1439-4bda-8763-c8de76b77c6c")
+	)
+	(fp_line
+		(start 0.905 -0.475)
+		(end 0.905 0.475)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f5d4474f-b1fc-4daa-a1c9-27f12cc84fd1")
+	)
+	(fp_line
+		(start 0.905 0.475)
+		(end -0.905 0.475)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "e0ebd980-d92e-4d99-ae58-cb6f80421617")
+	)
+	(fp_line
+		(start -0.4 -0.3)
+		(end 0.4 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d2b8ab37-b9d9-42fc-ba46-3d394704177c")
+	)
+	(fp_line
+		(start -0.4 -0.045)
+		(end -0.145 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "fd9e0a0c-f5ba-4efb-9835-222a05fee287")
+	)
+	(fp_line
+		(start -0.4 0.3)
+		(end -0.4 -0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "11d2f529-fff0-4b86-8256-adac58770387")
+	)
+	(fp_line
+		(start 0.4 -0.3)
+		(end 0.4 0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "97fae985-1fa8-4b9c-94d3-2455a7729aea")
+	)
+	(fp_line
+		(start 0.4 0.3)
+		(end -0.4 0.3)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "ce8a9178-4cc5-4256-90c7-49ee5e9e0c4a")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(uuid "55704d9d-2be0-4dd9-b3ad-37b38a83906c")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -0.5 0 90)
+		(size 0.32 0.51)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "aa4547d4-cc90-4105-b7b1-56d8f8d8fa9c")
+	)
+	(pad "2" smd rect
+		(at 0.5 0 90)
+		(size 0.32 0.51)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "325a8ec2-f1fe-46ba-a895-c0b006dd7a1f")
+	)
+	(embedded_fonts no)
+	(model "ESD9101P2T5G.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)

@@ -1,0 +1,331 @@
+(footprint "SON40P220X200X80-11N"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "DLH0010A")
+	(tags "Integrated Circuit")
+	(property "Reference" "IC2"
+		(at 1.9 0.15 270)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "2958ee80-0d6a-46c4-9473-41cc5fa68489")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+		)
+	)
+	(property "Value" "BQ25185DLHR"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "8729bf60-b826-4834-b91a-1db48252c9cb")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.254)
+			)
+		)
+	)
+	(property "Datasheet" "https://www.ti.com/lit/ds/symlink/bq25185.pdf?ts=1706857561339&ref_url=https%253A%252F%252Fwww.ti.com%252Fproduct%252FBQ25185"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "a16b21ce-3cab-42cc-905f-bcfa58e087ed")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Battery Management NPI  1-CELL 1A STANDALONE LNR HRGR"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "28f79dcc-17d8-48b8-ac01-b72614dbe1ac")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Height" "0.8"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ed2bb840-ab12-4293-94af-778609464bb6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Name" "Texas Instruments"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "bc135843-538e-4fcc-bc98-842a7c246181")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Manufacturer_Part_Number" "BQ25185DLHR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "ae958745-67c3-490b-9963-b522d05f3524")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Part Number" "595-BQ25185DLHR"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "1a9af5fb-76b5-46a4-95f8-31ab8c8f7474")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Mouser Price/Stock" "https://www.mouser.co.uk/ProductDetail/Texas-Instruments/BQ25185DLHR?qs=Z%252BL2brAPG1IbO%2FV3RqsaPw%3D%3D"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "05b4694f-f3a7-4ab3-a509-a96670801fc6")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Part Number" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "f320a2ca-4636-4ef9-8b3e-fa854d98f06d")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Arrow Price/Stock" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2800ca77-905a-4538-83cb-c7eefee79576")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(sheetname "/")
+	(sheetfile "ESP32-C6.kicad_sch")
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_circle
+		(center -1.475 -1.4)
+		(end -1.475 -1.275)
+		(stroke
+			(width 0.25)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.SilkS")
+		(uuid "201144f0-393f-416f-bbfa-45ae80bf61ad")
+	)
+	(fp_line
+		(start -1.725 -1.3)
+		(end 1.725 -1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a3181bb9-37c4-47de-853d-1b5574711a79")
+	)
+	(fp_line
+		(start -1.725 1.3)
+		(end -1.725 -1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "688464d0-1df8-4f90-b66e-d00a0343facc")
+	)
+	(fp_line
+		(start 1.725 -1.3)
+		(end 1.725 1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "7d46da29-e4c8-483a-a50b-f3f0f9ee68f3")
+	)
+	(fp_line
+		(start 1.725 1.3)
+		(end -1.725 1.3)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "f3d37906-2a78-46ac-8b1c-d2c7f3e21e7c")
+	)
+	(fp_line
+		(start -1.1 -1)
+		(end 1.1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "193f7a22-58a4-4cde-952e-183328d8e080")
+	)
+	(fp_line
+		(start -1.1 -0.45)
+		(end -0.55 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "05d7d95e-247e-401a-9d06-2ca940b3a1f7")
+	)
+	(fp_line
+		(start -1.1 1)
+		(end -1.1 -1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "0e17015e-7b28-48bb-8f92-a8debb1a70e8")
+	)
+	(fp_line
+		(start 1.1 -1)
+		(end 1.1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "d6c48f87-b636-46a2-8ceb-3d30f34d2137")
+	)
+	(fp_line
+		(start 1.1 1)
+		(end -1.1 1)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "bec777da-b015-4fa4-9b8c-8aca1aecfa3c")
+	)
+	(pad "1" smd rect
+		(at -1.1 -0.8 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e9b59178-d9f1-4a34-a624-3b8e2aab7ef9")
+	)
+	(pad "2" smd rect
+		(at -1.1 -0.4 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "8c8f021f-2595-4d89-8486-a225f153b0f3")
+	)
+	(pad "3" smd rect
+		(at -1.1 0 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "42821c13-dd25-454d-a97f-b817618c961c")
+	)
+	(pad "4" smd rect
+		(at -1.1 0.4 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "c88a6ce2-9bf8-4de7-b89a-6e3c35623df5")
+	)
+	(pad "5" smd rect
+		(at -1.1 0.8 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "033b3951-5ced-4d8b-b586-be41e8d7e89c")
+	)
+	(pad "6" smd rect
+		(at 1.1 0.8 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "a24d5a13-5027-4913-bb8f-bd86c73dc1d5")
+	)
+	(pad "7" smd rect
+		(at 1.1 0.4 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b2a7098c-098f-4acb-ab10-a0b55e963f9d")
+	)
+	(pad "8" smd rect
+		(at 1.1 0 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "b58b1053-7159-46fd-9422-3016a069f100")
+	)
+	(pad "9" smd rect
+		(at 1.1 -0.4 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "ba558c31-44ad-4fb6-84ae-630bf889543a")
+	)
+	(pad "10" smd rect
+		(at 1.1 -0.8 90)
+		(size 0.2 0.75)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "7e233125-015f-4370-aaf9-9c0cbdf78b31")
+	)
+	(pad "11" smd rect
+		(at 0 0)
+		(size 1 1.6)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "cf86ff3f-3e29-46d6-96c8-13e939aa9b1e")
+	)
+	(embedded_fonts no)
+	(model "${KIPRJMOD}/3D/BQ25185DLHR.stp"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
