@@ -6,7 +6,7 @@ Designed with KiCad by Urs Utzinger, February - June 2026.
 - Minimial size ESP32-S3.
 - Minimal size ESP32-C6, low power.
 
-Based on S3-mini module.
+Based on S3/C6-mini modules.
 
 <table style="width:100%; table-layout:fixed;">
   <tr>
